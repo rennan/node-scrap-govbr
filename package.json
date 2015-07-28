@@ -1,0 +1,17 @@
+{
+    "name": "node-scrap-govbr",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rennan/node-scrap-govbr.git"
+    },
+    "version": "0.0.1",
+    "description": "Exemplo simples de raspagem de dados em um site do Governo Federal Brasileiro com Node.js.",
+    "main": "server.js",
+    "author": "Rennan Martini <martini.rennan@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+    }
+}
